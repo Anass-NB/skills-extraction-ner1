@@ -1,5 +1,5 @@
 ### Skills Extraction From Resume : 
-in this project, we are going to use spacy for entity recognition for extracting skills from a resume 
+in this notebook, we are going to use spacy for entity recognition for extracting skills from a resume 
 - skills.json :  contains skills that we will use to create an entity ruler.
 
 
