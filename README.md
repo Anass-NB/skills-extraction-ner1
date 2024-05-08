@@ -4,5 +4,5 @@ in this project, we are going to use spacy for entity recognition for extracting
 
 
 
-demo : 
-![image](https://github.com/Anass-NB/skills-extraction-ner1/assets/110456240/edddb041-3816-412f-ba8d-70c81ad00e18)
+Test on my CV  : 
+![image](https://github.com/Anass-NB/skills-extraction-ner1/assets/110456240/78c4f0cb-b38f-4e65-8058-bdf4372a561b)
